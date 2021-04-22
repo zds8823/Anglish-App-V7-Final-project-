@@ -1,4 +1,4 @@
-# anglish
+# Anglish
 
 (Build folder and plugins were too large to include on Git)
 
